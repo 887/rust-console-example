@@ -1,0 +1,6 @@
+[package]
+name = "console_app"
+version = "0.1.0"
+authors = ["887 <2300887@gmail.com>"]
+
+[dependencies]
