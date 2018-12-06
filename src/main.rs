@@ -27,6 +27,7 @@ pub fn main() {
         println!("The first argument is {}", args[1]);
     }
 
+    let reader = if 0 > 0 {0} else {1};
     let reader = io::stdin();
     let mut result = String::new();
 
